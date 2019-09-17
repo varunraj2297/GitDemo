@@ -49,4 +49,8 @@ public class BookHandler extends DefaultHandler {
 	public void endDocument() throws SAXException {
 		System.out.println("Document Parsing ended");
 	}
+
+	public void m1(){
+       
+	}
 }
