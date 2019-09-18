@@ -51,6 +51,7 @@ public class BookHandler extends DefaultHandler {
 	}
 
 	public void m1(){
-         System.out.println("m1()");
+         System.out.println("m1() start");
+		 System.out.println("m1() end");
 	}
 }
